@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shankar
 - 👀 I’m interested in DevOps, Cloud, Automation, IaC, Docker, K8S, Test Automation, Microservices etc..
-- 🌱 I’m currently learning AWS Admistration 
 
 
 <!---
